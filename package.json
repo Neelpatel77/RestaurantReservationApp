@@ -1,5 +1,5 @@
 {
-  "name": "w08s02-testing",
+  "name": "RestaurantReservationApp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
